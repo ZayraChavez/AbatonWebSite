@@ -563,7 +563,7 @@ ul.social-buttons {
   border-radius: 3px;
   color: white;
   border-color: #1452A5;
-  background-color: #1452A5;
+  background-color: #222222;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
   .btn-xl.focus, .btn-xl:focus {
@@ -598,3 +598,9 @@ ul.social-buttons {
   .btn-xl .badge {
     color: #1452A5;
     background-color: white; }
+
+    .form-control::-webkit-input-placeholder {
+    }
+    .white{
+      color: white;
+    }
