@@ -3,6 +3,10 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
+
+   .white{
+      font-color: white !important;
+    }
 body {
   overflow-x: hidden;
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
@@ -601,6 +605,4 @@ ul.social-buttons {
 
     .form-control::-webkit-input-placeholder {
     }
-    .white{
-      color: white;
-    }
+  
